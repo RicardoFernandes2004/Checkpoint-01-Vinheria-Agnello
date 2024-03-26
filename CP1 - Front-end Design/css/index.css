@@ -3,6 +3,9 @@
     padding: 0;
 }
 body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     background-image: url(https://www.melhoresdestinos.com.br/wp-content/uploads/2022/10/cidade-italiana-paga-despesas-turistas-capa.jpg);
 }
 main{
@@ -19,7 +22,7 @@ header nav{
 }
 
 header nav h1{
-    padding-right: 63%;
+    padding-right: 62%;
 }
 header nav a{
     padding-right: 10px;
@@ -63,9 +66,22 @@ header nav #opcoes_menu a{
 
 .produtosExemplos > .container_info > h2{
     width: 15% !important;
+    font-size: 29px;
+}
+
+.produtosExemplos #containerProdutos .vinho_individual{
+    background-color: rgb(128, 128, 128);
+    border: 5px solid #131313;
+    border-radius: 10px;
+    width: 300px;
 }
 
 .produtosExemplos #containerProdutos .vinho_individual > img{
+    width: 300px;
+    height: auto;
+}
+
+.produtosExemplos #containerProdutos .vinho_individual > #vinho_branco{
     width: 300px;
     height: auto;
 }
@@ -80,7 +96,9 @@ header nav #opcoes_menu a{
 }
 
 .video{
-    border-top: 5px dashed #131313;
+    border-top: 5px solid #131313;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
     margin-top: 40px;
 }
 .video > h2,p{
@@ -122,4 +140,13 @@ footer{
     margin-left: 25%;
     margin-top: 100px;
     font-size: 20px;
+}
+
+.historia{
+    background-color: rgb(128, 128, 128);
+    border: 10px solid #131313;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    padding-bottom: 10px;
 }
