@@ -1,4 +1,14 @@
-Grupo: Ricardo Fernandes, André Yoshimori, Kauã Soares, Dayana Quispe e Bruno Macedo
+Grupo: 
+
+Ricardo Fernandes RM - 554597
+
+André Yoshimori RM - 554856
+
+Kauã Soares RM - 559044
+
+Dayana Quispe RM - 558023
+
+Bruno Macedo RM - 557973
 
 Estrutura do index.html<br>
 Primeiro entra a tag doctype html para declarar o tipo de arquivo, a tag html, A tag head contém link para o CSS do próprio index localizado na pasta css/index.css, a tag title para definir o nome da página, contem a tag meta do charset para defini-lo como UTF-8, possibilitando o uso de caractéres especiais, contem também as meta tags de author e viewport, usadas respectivamente para definir o autor da página e para deixar a página responsiva. 
