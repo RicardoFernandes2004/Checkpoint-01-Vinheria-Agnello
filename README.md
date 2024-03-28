@@ -1,7 +1,7 @@
 Grupo: Ricardo Fernandes, André Yoshimori, Kauã Soares, Dayana Quispe e Bruno Macedo
 
 Estrutura do index.html<br>
-Primeiro entra a tag doctype html para declarar o tipo de arquivo, a tag html, A tag head contém link para o CSS do próprio index localizado na pasta css/index.css, a tag title para definir o nome da página, contem a tag meta do charset para defini-lo como UTF-8, possibilitando o uso de caracteres especiais, contem também as meta tags de author e viewport, usadas respectivamente para definir o autor da página e para deixar a página responsiva. 
+Primeiro entra a tag doctype html para declarar o tipo de arquivo, a tag html, A tag head contém link para o CSS do próprio index localizado na pasta css/index.css, a tag title para definir o nome da página, contem a tag meta do charset para defini-lo como UTF-8, possibilitando o uso de caractéres especiais, contem também as meta tags de author e viewport, usadas respectivamente para definir o autor da página e para deixar a página responsiva. 
 O body contém primeiramente o header, que contém a nav, que por sua vez contém os links de navegação do site e a logo da empresa juntamente do h1 de título.<br>
 Após o header vem o main, que conta com 2 articles, Um com uma vitrine de produtos e outro com finalidade informativa contendo uma section para video, e outra section contando um resumo da história do vinho.
 O article para a vitrine de produtos contém uma div para a manipulação do h2 de título do vídeo e uma div para manipular os section usados para cada produto individual, com seu link a e sua img.
