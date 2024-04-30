@@ -19,6 +19,11 @@ header nav{
     align-items: center;
     color: #e7bd70;
     background-color: #131313;
+    transition: 0.3s;
+}
+
+header nav:hover {
+    transform: scale(1.01);
 }
 
 header nav h1{
