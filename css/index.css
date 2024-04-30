@@ -45,6 +45,11 @@ header nav #opcoes_menu a{
     color: inherit;
 }
 
+#opcoes_menu ul li a:hover {
+    color: blue;
+}
+
+
 .produtosExemplos #containerProdutos{
     display: flex;
     flex-wrap: nowrap;

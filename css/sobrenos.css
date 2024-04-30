@@ -42,6 +42,10 @@ header nav #opcoes_menu a{
     color: inherit;
 }
 
+#opcoes_menu ul li a:hover {
+    color: blue;
+}
+
 h1 {
     font-family: 'Open Sans', sans-serif;
     font-size: 35px;

@@ -51,6 +51,9 @@ header nav #opcoes_menu a{
     color: inherit;
 }
 
+#opcoes_menu ul li a:hover {
+    color: blue;
+}
 
 footer{
     background-color: #131313;
